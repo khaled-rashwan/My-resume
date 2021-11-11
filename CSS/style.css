@@ -1,0 +1,85 @@
+body{
+    background: #eeeeee;
+    font-size: 120%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 2%;
+}
+nav{
+    float: right;
+    font-size: 80%;
+    width: 60%
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    margin-right: 5%;
+}
+h1{
+    color:rgb(43, 43, 97);
+    border-bottom:solid;
+    margin-bottom: 0%;
+}
+h2{
+    color:rgb(43, 43, 97);
+    font-size: 90%;
+    margin-top: 0%;
+}
+h3{
+    color:rgb(43, 43, 97);
+    margin-bottom: 1%;
+}
+h4{
+    font-size: 95%;
+    margin-bottom: 0%;
+    margin-left: 1%;
+}
+p{
+    margin-top: 0%;
+    margin-left: 2%;
+}
+#my-personal-photo{
+    border: solid;
+    border-width:2px;
+    border-color: rgb(43, 43, 97);
+    width: 15%;
+    float: right;
+}
+#google-certificate-logo{
+    float: right;
+    margin-bottom: 5%;
+}
+#coursera-certificate-logo{
+    float: right;
+    clear: right;
+}
+main{
+    margin-left: 4%;
+    width: 70%;
+}
+ul{
+    margin: 0%;
+}
+li{
+    margin-bottom: 1%;
+}
+section{
+    border-bottom: solid;
+    border-bottom-color: rgb(35, 65, 122);
+    border-bottom-width: thin;
+}
+time{
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+abbr{
+    font-style: italic;
+}
+footer{
+    text-align: right;
+    margin-right: 2%;
+}
+i{
+    color: black;
+    margin-right: 2%;
+}
