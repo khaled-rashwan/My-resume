@@ -172,14 +172,6 @@
                 <h4>Cloud</h4>
                 <p>Google Cloud Platform</p>
             </section>
-            <p hidden>
-                <label for="courseProgress">Progress in this Course (100%)</label>
-                    <progress id="courseProgress" value="100" max="100"> 100% </progress><br>
-                <label for="specProgress">Progress in the Specialization capstone (20%)</label>
-                    <progress id="specProgress" value="20" max="100"> 20% </progress><br>
-                <label for="lifeProgress">Progress in life goals (30%)</label>
-                    <progress id="lifeProgress" value="30" max="100"> 30% </progress>
-            </p>
         </main>
         <footer>
             <a href="mailto:khaled_abdel_razek@hotmail.com" target=”_blank”>
