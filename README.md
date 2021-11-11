@@ -123,18 +123,10 @@
             </section>
             <section>
                 <h3 id="continuing-education">Continuing Education</h3>
-                <figure>
-                    <img  id="google-certificate-logo" src="images/gcp.jpg" alt="google cloud Certificate logo">
-                    <figcaption></figcaption>
-                </figure>
                 <h4>Professional Certificates (Google Cloud)</h4>
                 <ul>
                     <li>Google cloud certified - professional cloud architect</li>
                 </ul>
-                <figure>
-                    <img  id="coursera-certificate-logo" src="images/coursera.jpg" alt="google cloud Certificate logo">
-                    <figcaption></figcaption>
-                </figure>
                 <h4>Specialization Certificates (Coursera)</h4>
                 <ul>
                     <li>Preparing for Google Cloud Certification: Cloud Architect</li>
