@@ -1,11 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <link rel="stylesheet" href="CSS/style.css">
-        <script src="https://kit.fontawesome.com/b2a582123e.js" crossorigin="anonymous"></script>
-        <title>Bio | Khaled Rashwan</title>
-    </head>
     <body>
         <header>
             <nav>
@@ -173,19 +167,5 @@
                 <p>Google Cloud Platform</p>
             </section>
         </main>
-        <footer>
-            <a href="mailto:khaled_abdel_razek@hotmail.com" target=”_blank”>
-                <i class="fas fa-at fa-2x"></i>
-            </a>
-            <a href="https://www.linkedin.com/in/khaled-rashwan" target=”_blank”>
-                <i class="fab fa-linkedin fa-2x"></i>
-            </a>
-            <a href="https://twitter.com/KhaledRashwan2" target=”_blank”>
-                <i class="fab fa-twitter-square fa-2x"></i>
-            </a>
-            <a href="https://github.com/khaled-rashwan" target=”_blank”>
-                <i class="fab fa-github-square fa-2x"></i>
-            </a>
-        </footer>
     </body>
 </html>
