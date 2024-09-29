@@ -158,6 +158,17 @@
                 <h4>Cloud</h4>
                 <p>Google Cloud Platform</p>
             </section>
+            <section>
+                <h3 id="contact">Contact Me</h3>
+                <p>This section contains a contact form where users can reach out to me. The form includes fields for name, email, and message. The form is styled using CSS and includes JavaScript for form validation and handling form submission.</p>
+                <h4>How to use the contact form:</h4>
+                <ul>
+                    <li>Fill in your name in the "Name" field.</li>
+                    <li>Enter your email address in the "Email" field.</li>
+                    <li>Write your message in the "Message" field.</li>
+                    <li>Click the "Submit" button to send your message.</li>
+                </ul>
+            </section>
         </main>
     </body>
 </html>
