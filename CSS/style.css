@@ -132,3 +132,67 @@ i{
     margin-top: -10px;
     margin-bottom: 10px;
 }
+
+/* Styles for about.html page */
+header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+
+header nav a {
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header h2 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #666;
+}
+
+header figure {
+    margin: 20px 0;
+}
+
+header figure img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+main {
+    padding: 20px;
+}
+
+main section {
+    margin-bottom: 20px;
+}
+
+main section h3 {
+    font-size: 1.5em;
+    color: #333;
+}
+
+main section p {
+    font-size: 1em;
+    color: #666;
+}
+
+footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+}

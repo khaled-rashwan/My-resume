@@ -8,6 +8,7 @@
                 <a href="#Projects">Projects</a>
                 <a href="#continuing-education">Continuing Education</a>
                 <a href="#software-skills">Software Skills</a>
+                <a href="about.html">About Me</a>
             </nav>
             <hgroup>
                 <h1>Khaled Rashwan</h1>
@@ -168,6 +169,10 @@
                     <li>Write your message in the "Message" field.</li>
                     <li>Click the "Submit" button to send your message.</li>
                 </ul>
+            </section>
+            <section>
+                <h3>About Me and Cover Letter</h3>
+                <p>The new <code>about.html</code> page includes a brief about me and a cover letter. It provides more detailed information about my background, experience, and professional goals. The cover letter is addressed to potential employers and highlights my qualifications and enthusiasm for the Professional Cloud Architect position.</p>
             </section>
         </main>
     </body>
